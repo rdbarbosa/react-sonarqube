@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="C:\Proj\react\react-sonar\src\__tests__\Link.test.tsx">
+        <testCase name="renders without crashing" duration="43"/>
+    </file>
+    <file path="C:\Proj\react\react-sonar\src\__tests__\Count.test.tsx">
+        <testCase name="renders without crashing" duration="43"/>
+        <testCase name="App loads with initial state of 0" duration="15"/>
+    </file>
+    <file path="C:\Proj\react\react-sonar\src\__tests__\App.test.tsx">
+        <testCase name="renders without crashing" duration="54"/>
+        <testCase name="App loads" duration="15"/>
+    </file>
+</testExecutions>
